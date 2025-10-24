@@ -5,8 +5,7 @@
 ### 方式一：Linux/macOS 一键部署
 ```bash
 # 下载并运行部署脚本
-curl -fsSL https://raw.githubusercontent.com/your-repo/node-staking-admin-backend/main/deploy.sh | bash
-
+https://raw.githubusercontent.com/xiamo3621/thems/main/deploy.sh
 # 或者手动下载后运行
 chmod +x deploy.sh
 ./deploy.sh
